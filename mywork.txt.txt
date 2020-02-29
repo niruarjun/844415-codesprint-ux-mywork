@@ -1,0 +1,9 @@
+My associate id:
+844415
+Other team members 
+844423,844246,844227,844231
+My role in this giftcard ux design:
+   developed the sidebar,header that will be common for every routing page
+My Development Files:
+ 1.sidebar.component.html
+ 2.header.component.html
